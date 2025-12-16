@@ -161,6 +161,6 @@ manuscript:
 
 For questions related to this repository or the manuscript, please contact:
 
-**Santiago Sastre**  
-PhD candidate in Chemistry  
+**MSc. Santiago Sastre**  
+ssastre@fcien.edu.uy  
 CEINBIO – Universidad de la República (Uruguay)
