@@ -94,8 +94,7 @@ range of positive and negative time lags, allowing identification of temporal
 ordering between metal binding and changes in ion occupancy.
 
 This analysis provides direct evidence for a dynamical relationship between
-heavy-metal binding near the pore entrance and modulation of K⁺ conduction,
-supporting a direct blocking mechanism.
+heavy-metal binding near the pore entrance and modulation of K⁺ conduction.
 
 ---
 
