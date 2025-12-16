@@ -1,6 +1,5 @@
 *.xvg
 *.log
 *.dcd
-*.xtc
 *.trr
 __pycache__/
