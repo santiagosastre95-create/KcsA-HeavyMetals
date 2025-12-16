@@ -23,7 +23,7 @@ facilitate inspection of the computational analyses used in the study.
 ## Scope and limitations
 
 - All molecular dynamics (MD) simulations were performed using **AMBER**.
-- This repository **does not include raw MD trajectories or AMBER input files**
+- This repository **does not include raw MD trajectories**
   due to size constraints and data management best practices.
 - Only **analysis scripts, processed outputs, and figures** are tracked.
 - The repository is **not intended as a general-purpose software package**.
