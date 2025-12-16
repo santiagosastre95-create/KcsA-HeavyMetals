@@ -80,6 +80,23 @@ Outputs include:
 
 ---
 
+### Time-lagged cross-correlation analysis
+
+To investigate the dynamical coupling between ion conduction and heavy-metal
+binding, a time-lagged cross-correlation analysis was performed between:
+
+- the number of K⁺ ions occupying the pore, and
+- the number of heavy-metal ions located at the channel mouth.
+
+The analysis was carried out independently for each replica and subsequently
+averaged across replicas. Cross-correlation functions were computed over a
+range of positive and negative time lags, allowing identification of temporal
+ordering between metal binding and changes in ion occupancy.
+
+This analysis provides direct evidence for a dynamical relationship between
+heavy-metal binding near the pore entrance and modulation of K⁺ conduction,
+supporting a direct blocking mechanism.
+
 ### One-dimensional PMF along the pore axis
 
 One-dimensional potentials of mean force (PMFs) along the **z-axis** were
