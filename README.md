@@ -1,9 +1,4 @@
 # KcsA–Heavy Metals  
-**Supporting code for:**  
-*Heavy metal directly blocks potassium channels: An experimental and theoretical approach*  
-(Submitted to the *Journal of Chemical Information and Modeling*)
-
----
 
 ## Purpose of this repository
 
