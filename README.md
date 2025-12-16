@@ -97,6 +97,8 @@ This analysis provides direct evidence for a dynamical relationship between
 heavy-metal binding near the pore entrance and modulation of K⁺ conduction,
 supporting a direct blocking mechanism.
 
+---
+
 ### One-dimensional PMF along the pore axis
 
 One-dimensional potentials of mean force (PMFs) along the **z-axis** were
