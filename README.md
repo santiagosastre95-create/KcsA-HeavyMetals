@@ -29,9 +29,9 @@ facilitate inspection of the computational analyses used in the study.
 
 ```
 .
-├── Hg/            # Analyses related to Hg-bound simulations
-├── Pb/            # Analyses related to Pb-bound simulations
-├── K_only/        # Control simulations (K+ only)
+├── Hg/            # Analyses related to KcsA+K+Hg simulations
+├── Pb/            # Analyses related to KcsA+K+Pb simulations
+├── K_only/        # Control simulations (KcsA+K)
 ├── scripts/       # Python analysis scripts used in the manuscript
 ├── .gitignore
 └── README.md
