@@ -8,7 +8,7 @@ theoretical and computational results reported in the manuscript:
 > **Heavy metal directly blocks potassium channels:  
 > An experimental and theoretical approach**
 
-submitted to the *Journal of Chemical Information and Modeling (JCIM)*.
+accepted in the *Journal of Chemical Information and Modeling (JCIM)*.
 
 The repository is provided to ensure **methodological transparency** and to
 facilitate inspection of the computational analyses used in the study.
@@ -20,8 +20,7 @@ facilitate inspection of the computational analyses used in the study.
 - All molecular dynamics (MD) simulations were performed using **AMBER**.
 - This repository **does not include raw MD trajectories**
   due to size constraints and data management best practices.
-- Only **analysis scripts, processed outputs, and figures** are tracked.
-- The repository is **not intended as a general-purpose software package**.
+- Only **analysis scripts and processed outputs** are tracked.
 
 ---
 
@@ -43,12 +42,6 @@ derived from the corresponding MD simulations.
 ---
 
 ## Molecular dynamics simulations
-
-- MD engine: **AMBER**
-- Systems: KcsA potassium channel in a membrane environment
-- Periodic boundary conditions: enabled
-- Temperature: 300 K
-- Trajectory formats: converted to analysis-friendly formats (e.g. `.xtc`)
 
 The full simulation protocols, force fields, and system preparation details
 are described in the **Methods section of the manuscript**.
@@ -166,7 +159,7 @@ manuscript:
 
 > *Heavy metal directly blocks potassium channels:  
 > An experimental and theoretical approach*  
-> Journal of Chemical Information and Modeling (submitted)
+> Journal of Chemical Information and Modeling (accepted)
 
 ---
 
